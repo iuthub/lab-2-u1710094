@@ -1,0 +1,20 @@
+body {
+	background-color: #EDF5FF;
+}
+
+h1 {
+	color: #219FCF;
+	font-family: georgia;
+}
+
+p {
+	font-size: 17px;
+}
+
+li {
+	font-size: 17px;
+}
+
+a {
+	color: red;
+}
